@@ -1,0 +1,3 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 3.LastDigitAsWord\bin\Debug\Problem4.LastDigitAsWord.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 3.LastDigitAsWord\obj\Debug\Problem4.LastDigitAsWord.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 3.LastDigitAsWord\obj\Debug\Problem4.LastDigitAsWord.pdb

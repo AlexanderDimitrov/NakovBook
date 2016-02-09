@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem8.Sorting an Array\bin\Debug\Problem8.Sorting an Array.exe.config
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem8.Sorting an Array\bin\Debug\Problem8.Sorting an Array.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem8.Sorting an Array\bin\Debug\Problem8.Sorting an Array.pdb
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem8.Sorting an Array\obj\Debug\Problem8.Sorting an Array.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem8.Sorting an Array\obj\Debug\Problem8.Sorting an Array.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem8.Sorting an Array\obj\Debug\Problem8.Sorting an Array.pdb

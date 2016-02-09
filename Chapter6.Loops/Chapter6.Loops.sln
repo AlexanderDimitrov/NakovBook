@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter6.Loops", "Chapter6.Loops\Chapter6.Loops.csproj", "{A91FDAC8-8D2D-403B-862B-D1657E9D1D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1.Basic Loop", "Problem 1.Basic Loop\Problem 1.Basic Loop.csproj", "{10A4F607-F6C3-43BA-A89A-97AFA393E60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2.Not Divisible By 3 and 7", "Problem2.Not Divisible By 3 and 7.\Problem2.Not Divisible By 3 and 7.csproj", "{C4070DC7-99B8-4555-98DA-8A923FA1BF34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3.Smallest,Largers of numbers", "Problem3.Smallest,Largers of numbers\Problem3.Smallest,Largers of numbers.csproj", "{C684900E-7B68-4025-8049-B8537224B253}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem5.FibonaciNumbers", "Problem5.FibonaciNumbers\Problem5.FibonaciNumbers.csproj", "{728B5398-3DFE-43FE-AE51-B1EFA8063D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A91FDAC8-8D2D-403B-862B-D1657E9D1D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91FDAC8-8D2D-403B-862B-D1657E9D1D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91FDAC8-8D2D-403B-862B-D1657E9D1D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91FDAC8-8D2D-403B-862B-D1657E9D1D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A4F607-F6C3-43BA-A89A-97AFA393E60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A4F607-F6C3-43BA-A89A-97AFA393E60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A4F607-F6C3-43BA-A89A-97AFA393E60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A4F607-F6C3-43BA-A89A-97AFA393E60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4070DC7-99B8-4555-98DA-8A923FA1BF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4070DC7-99B8-4555-98DA-8A923FA1BF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4070DC7-99B8-4555-98DA-8A923FA1BF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4070DC7-99B8-4555-98DA-8A923FA1BF34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C684900E-7B68-4025-8049-B8537224B253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C684900E-7B68-4025-8049-B8537224B253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C684900E-7B68-4025-8049-B8537224B253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C684900E-7B68-4025-8049-B8537224B253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728B5398-3DFE-43FE-AE51-B1EFA8063D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728B5398-3DFE-43FE-AE51-B1EFA8063D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728B5398-3DFE-43FE-AE51-B1EFA8063D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728B5398-3DFE-43FE-AE51-B1EFA8063D87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

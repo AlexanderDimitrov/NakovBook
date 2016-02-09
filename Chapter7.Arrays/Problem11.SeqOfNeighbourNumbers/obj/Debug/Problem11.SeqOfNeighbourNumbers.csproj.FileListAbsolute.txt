@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem11.SeqOfNeighbourNumbers\bin\Debug\Problem11.SeqOfNeighbourNumbers.exe.config
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem11.SeqOfNeighbourNumbers\bin\Debug\Problem11.SeqOfNeighbourNumbers.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem11.SeqOfNeighbourNumbers\bin\Debug\Problem11.SeqOfNeighbourNumbers.pdb
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem11.SeqOfNeighbourNumbers\obj\Debug\Problem11.SeqOfNeighbourNumbers.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem11.SeqOfNeighbourNumbers\obj\Debug\Problem11.SeqOfNeighbourNumbers.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem11.SeqOfNeighbourNumbers\obj\Debug\Problem11.SeqOfNeighbourNumbers.pdb

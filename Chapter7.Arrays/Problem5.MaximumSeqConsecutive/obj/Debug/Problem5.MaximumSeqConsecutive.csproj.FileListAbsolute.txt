@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem5.MaximumSeqConsecutive\bin\Debug\Problem5.MaximumSeqConsecutive.exe.config
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem5.MaximumSeqConsecutive\bin\Debug\Problem5.MaximumSeqConsecutive.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem5.MaximumSeqConsecutive\bin\Debug\Problem5.MaximumSeqConsecutive.pdb
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem5.MaximumSeqConsecutive\obj\Debug\Problem5.MaximumSeqConsecutive.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem5.MaximumSeqConsecutive\obj\Debug\Problem5.MaximumSeqConsecutive.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem5.MaximumSeqConsecutive\obj\Debug\Problem5.MaximumSeqConsecutive.pdb

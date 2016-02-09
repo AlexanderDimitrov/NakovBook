@@ -1,0 +1,3 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Problem3.Smallest ,Largest\bin\Debug\Problem3.Smallest ,Largest.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Problem3.Smallest ,Largest\obj\Debug\Problem3.Smallest ,Largest.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Problem3.Smallest ,Largest\obj\Debug\Problem3.Smallest ,Largest.pdb

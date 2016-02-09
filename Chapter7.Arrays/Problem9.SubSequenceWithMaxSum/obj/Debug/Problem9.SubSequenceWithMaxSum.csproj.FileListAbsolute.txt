@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem9.SubSequenceWithMaxSum\bin\Debug\Problem9.SubSequenceWithMaxSum.exe.config
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem9.SubSequenceWithMaxSum\bin\Debug\Problem9.SubSequenceWithMaxSum.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem9.SubSequenceWithMaxSum\bin\Debug\Problem9.SubSequenceWithMaxSum.pdb
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem9.SubSequenceWithMaxSum\obj\Debug\Problem9.SubSequenceWithMaxSum.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem9.SubSequenceWithMaxSum\obj\Debug\Problem9.SubSequenceWithMaxSum.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem9.SubSequenceWithMaxSum\obj\Debug\Problem9.SubSequenceWithMaxSum.pdb

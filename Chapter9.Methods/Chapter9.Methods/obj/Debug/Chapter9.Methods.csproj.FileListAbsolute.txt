@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Chapter9.Methods\bin\Debug\Chapter9.Methods.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Chapter9.Methods\bin\Debug\Chapter9.Methods.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Chapter9.Methods\bin\Debug\Chapter9.Methods.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Chapter9.Methods\obj\Debug\Chapter9.Methods.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Chapter9.Methods\obj\Debug\Chapter9.Methods.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Chapter9.Methods\obj\Debug\Chapter9.Methods.pdb

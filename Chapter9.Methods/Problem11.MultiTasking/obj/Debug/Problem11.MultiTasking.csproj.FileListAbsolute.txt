@@ -1,0 +1,5 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem11.MultiTasking\bin\Debug\Problem11.MultiTasking.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem11.MultiTasking\bin\Debug\Problem11.MultiTasking.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem11.MultiTasking\bin\Debug\Problem11.MultiTasking.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem11.MultiTasking\obj\Debug\Problem11.MultiTasking.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem11.MultiTasking\obj\Debug\Problem11.MultiTasking.pdb

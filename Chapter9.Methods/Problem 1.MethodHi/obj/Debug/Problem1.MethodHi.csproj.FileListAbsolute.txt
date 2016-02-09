@@ -1,0 +1,5 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem1.MethodHi\bin\Debug\Problem1.MethodHi.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem1.MethodHi\bin\Debug\Problem1.MethodHi.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem1.MethodHi\bin\Debug\Problem1.MethodHi.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem1.MethodHi\obj\Debug\Problem1.MethodHi.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem1.MethodHi\obj\Debug\Problem1.MethodHi.pdb

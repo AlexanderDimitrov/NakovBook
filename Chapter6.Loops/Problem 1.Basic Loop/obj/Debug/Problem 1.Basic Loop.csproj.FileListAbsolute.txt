@@ -1,0 +1,5 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Problem 1.Basic Loop\bin\Debug\Problem 1.Basic Loop.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Problem 1.Basic Loop\bin\Debug\Problem 1.Basic Loop.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Problem 1.Basic Loop\bin\Debug\Problem 1.Basic Loop.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Problem 1.Basic Loop\obj\Debug\Problem 1.Basic Loop.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Problem 1.Basic Loop\obj\Debug\Problem 1.Basic Loop.pdb

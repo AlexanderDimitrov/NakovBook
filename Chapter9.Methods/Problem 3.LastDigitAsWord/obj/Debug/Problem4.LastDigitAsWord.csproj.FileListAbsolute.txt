@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem4.LastDigitAsWord\bin\Debug\Problem4.LastDigitAsWord.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem4.LastDigitAsWord\bin\Debug\Problem4.LastDigitAsWord.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem4.LastDigitAsWord\bin\Debug\Problem4.LastDigitAsWord.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem4.LastDigitAsWord\obj\Debug\Problem4.LastDigitAsWord.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem4.LastDigitAsWord\obj\Debug\Problem4.LastDigitAsWord.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem4.LastDigitAsWord\obj\Debug\Problem4.LastDigitAsWord.csprojResolveAssemblyReference.cache

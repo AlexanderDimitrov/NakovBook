@@ -1,0 +1,6 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem4.BestLenght.BestStart\bin\Debug\Problem4.BestLenght.BestStart.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem4.BestLenght.BestStart\bin\Debug\Problem4.BestLenght.BestStart.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem4.BestLenght.BestStart\bin\Debug\Problem4.BestLenght.BestStart.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem4.BestLenght.BestStart\obj\Debug\Problem4.BestLenght.BestStart.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem4.BestLenght.BestStart\obj\Debug\Problem4.BestLenght.BestStart.pdb
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem4.BestLenght.BestStart\obj\Debug\Problem4.BestLenght.BestStart.csprojResolveAssemblyReference.cache

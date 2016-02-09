@@ -1,0 +1,3 @@
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem4.BestLenght.BestStart\bin\Debug\Problem4.BestLenght.BestStart.exe.config
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem4.BestLenght.BestStart\obj\Debug\Problem4.BestLenght.BestStart.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem4.BestLenght.BestStart\obj\Debug\Problem4.BestLenght.BestStart.pdb

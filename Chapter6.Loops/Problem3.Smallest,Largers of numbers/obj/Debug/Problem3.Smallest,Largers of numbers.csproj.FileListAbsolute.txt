@@ -1,0 +1,5 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Problem3.Smallest,Largers of numbers\bin\Debug\Problem3.Smallest,Largers of numbers.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Problem3.Smallest,Largers of numbers\bin\Debug\Problem3.Smallest,Largers of numbers.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Problem3.Smallest,Largers of numbers\bin\Debug\Problem3.Smallest,Largers of numbers.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Problem3.Smallest,Largers of numbers\obj\Debug\Problem3.Smallest,Largers of numbers.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Problem3.Smallest,Largers of numbers\obj\Debug\Problem3.Smallest,Largers of numbers.pdb

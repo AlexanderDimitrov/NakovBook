@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 7.Reverse\bin\Debug\Problem 7.Reverse.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 7.Reverse\bin\Debug\Problem 7.Reverse.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 7.Reverse\bin\Debug\Problem 7.Reverse.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 7.Reverse\obj\Debug\Problem 7.Reverse.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 7.Reverse\obj\Debug\Problem 7.Reverse.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 7.Reverse\obj\Debug\Problem 7.Reverse.pdb

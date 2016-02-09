@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 6.GreaterInArray\bin\Debug\Problem 6.GreaterInArray.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 6.GreaterInArray\bin\Debug\Problem 6.GreaterInArray.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 6.GreaterInArray\bin\Debug\Problem 6.GreaterInArray.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 6.GreaterInArray\obj\Debug\Problem 6.GreaterInArray.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 6.GreaterInArray\obj\Debug\Problem 6.GreaterInArray.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 6.GreaterInArray\obj\Debug\Problem 6.GreaterInArray.pdb

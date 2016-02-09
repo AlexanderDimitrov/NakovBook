@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 4.NumberFinder\bin\Debug\Problem 4.NumberFinder.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 4.NumberFinder\bin\Debug\Problem 4.NumberFinder.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 4.NumberFinder\bin\Debug\Problem 4.NumberFinder.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 4.NumberFinder\obj\Debug\Problem 4.NumberFinder.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 4.NumberFinder\obj\Debug\Problem 4.NumberFinder.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\NakovBook\Chapter9.Methods\Problem 4.NumberFinder\obj\Debug\Problem 4.NumberFinder.pdb

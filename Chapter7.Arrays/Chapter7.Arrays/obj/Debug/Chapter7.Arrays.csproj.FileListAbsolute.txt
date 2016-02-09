@@ -1,0 +1,6 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Chapter7.Arrays\bin\Debug\Chapter7.Arrays.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Chapter7.Arrays\bin\Debug\Chapter7.Arrays.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Chapter7.Arrays\bin\Debug\Chapter7.Arrays.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Chapter7.Arrays\obj\Debug\Chapter7.Arrays.csprojResolveAssemblyReference.cache
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Chapter7.Arrays\obj\Debug\Chapter7.Arrays.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Chapter7.Arrays\obj\Debug\Chapter7.Arrays.pdb

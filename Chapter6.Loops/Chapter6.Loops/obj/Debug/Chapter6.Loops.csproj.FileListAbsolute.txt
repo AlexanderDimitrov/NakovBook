@@ -1,0 +1,6 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Chapter6.Loops\bin\Debug\Chapter6.Loops.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Chapter6.Loops\bin\Debug\Chapter6.Loops.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Chapter6.Loops\bin\Debug\Chapter6.Loops.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Chapter6.Loops\obj\Debug\Chapter6.Loops.csprojResolveAssemblyReference.cache
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Chapter6.Loops\obj\Debug\Chapter6.Loops.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\NakovBook\Chapter6.Loops\Chapter6.Loops\obj\Debug\Chapter6.Loops.pdb

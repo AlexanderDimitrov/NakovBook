@@ -1,0 +1,5 @@
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem6.FindingIncreasingSeqInArray\bin\Debug\Problem6.FindingIncreasingSeqInArray.exe.config
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem6.FindingIncreasingSeqInArray\obj\Debug\Problem6.FindingIncreasingSeqInArray.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem6.FindingIncreasingSeqInArray\obj\Debug\Problem6.FindingIncreasingSeqInArray.pdb
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem6.FindingIncreasingSeqInArray\bin\Debug\Problem6.FindingIncreasingSeqInArray.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\NakovBook\Chapter7.Arrays\Problem6.FindingIncreasingSeqInArray\bin\Debug\Problem6.FindingIncreasingSeqInArray.pdb
